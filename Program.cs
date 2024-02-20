@@ -52,3 +52,52 @@ else if (time < 20){
 else {
     Console.WriteLine("This is a day");
 }
+
+int day = 1;
+switch (day) 
+{
+  case 1:
+    Console.WriteLine("Monday");
+    break;
+  case 2:
+    Console.WriteLine("Tuesday");
+    break;
+  case 3:
+    Console.WriteLine("Wednesday");
+    break;
+  case 4:
+    Console.WriteLine("Thursday");
+    break;
+  case 5:
+    Console.WriteLine("Friday");
+    break;
+  case 6:
+    Console.WriteLine("Saturday");
+    break;
+  case 7:
+    Console.WriteLine("Sunday");
+    break;
+}
+
+int sum1 = 100+100;
+Console.WriteLine(sum1);
+int sum2 = 100-50;
+Console.WriteLine(sum2);
+int sum3 = 100*50;
+Console.WriteLine(sum3);
+int sum4 = 100/50;
+Console.WriteLine(sum4);
+int sum5 = 100%50;
+Console.WriteLine(sum5);
+int sum6 = 100;
+sum6++;
+Console.WriteLine(sum6);
+int sum7 = 100;
+sum6--;
+Console.WriteLine(sum7);
+
+double sum8= 100.50d;
+Console.WriteLine(sum8);
+
+string sum9= "Dinesh";
+Console.WriteLine(sum9);
