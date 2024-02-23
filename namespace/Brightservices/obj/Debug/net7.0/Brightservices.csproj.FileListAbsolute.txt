@@ -1,0 +1,14 @@
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\bin\Debug\net7.0\Brightservices.exe
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\bin\Debug\net7.0\Brightservices.deps.json
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\bin\Debug\net7.0\Brightservices.runtimeconfig.json
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\bin\Debug\net7.0\Brightservices.dll
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\bin\Debug\net7.0\Brightservices.pdb
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\Brightservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\Brightservices.AssemblyInfoInputs.cache
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\Brightservices.AssemblyInfo.cs
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\Brightservices.csproj.CoreCompileInputs.cache
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\Brightservices.dll
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\refint\Brightservices.dll
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\Brightservices.pdb
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\Brightservices.genruntimeconfig.cache
+C:\Users\Dineshcad01\Desktop\CADBATCH\Project\my-csharp\namespace\Brightservices\obj\Debug\net7.0\ref\Brightservices.dll
